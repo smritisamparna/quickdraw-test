@@ -1,3 +1,3 @@
 # quickdraw-test
  learning github badges
-learning github more 🚀
+learning github more
